@@ -1,16 +1,40 @@
-### Hi there 👋
+[<img alt="Header" src="https://github.com/Borzow/Borzow/blob/master/assets/QA.png"/>]
+## I'm a QA Engineer.
+### I like testing, I love checklists and test cases, I love looking for bugs and automating everything, I love testing
+## My CV
+[Link to my CV]()
 
-<!--
-**Borzow/Borzow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Language and Tools
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/confluence-090909?style=for-the-badge&logo=confluence&logoColor=136be1)
+![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/AzureDevops-090909?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
+![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
+![Header](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=jenkins&logoColor=f7f7f7)
+![Header](https://img.shields.io/badge/Mysql-090909?style=for-the-badge&logo=mysql&logoColor=white)
+![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testRail&logoColor=71b55)
+![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/java-090909?style=for-the-badge&logo=java&logoColor=white)
+![Header](https://img.shields.io/badge/selenium-090909?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![Header](https://img.shields.io/badge/docker-090909?style=for-the-badge&amp;logo=docker&amp;logoColor=230db7ed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Testing Documentation
+
+- [Checklists]
+- [Test-Suites and Test-Cases]
+- [Bug-Reports]
+- [SQL Queries]
+- [Postman Collections]
+
+### Follow Me
+
+[![Header](https://img.shields.io/badge/Telegram-090909?style=social&logo=telegram&logoColor=31a5db)](https://t.me/GreatQa)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=social&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
+[![Header](https://img.shields.io/badge/WhatsApp-090909?style=social&logo=whatsapp&logoColor=25D366)]()
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Borzow&show_icons=true&theme=radical)
