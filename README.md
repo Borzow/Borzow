@@ -1,9 +1,9 @@
-<img alt="Header" height="100%" src="https://github.com/Borzow/Borzow/blob/master/assets/QA.png" width="100%"/>
+[<img alt="Header" height="100%" src="https://github.com/Borzow/Borzow/blob/master/assets/QA.png" width="100%"/>](https://drive.google.com/drive/folders/1djipZZu1yN24qOPC2WXXY70EGUqvV9DQ)
 
 ## I'm a QA Engineer.
 ### I like testing, I love checklists and test cases, I love looking for bugs and automating everything, I love testing
 ## My CV
-[Link to my CV]()
+[Link to my CV](https://drive.google.com/drive/folders/1djipZZu1yN24qOPC2WXXY70EGUqvV9DQ)
 
 
 ### Language and Tools
@@ -27,8 +27,8 @@
 ### Testing Documentation
 
 - [Checklists]
-- [Test-Suites and Test-Cases]
-- [Bug-Reports]
+- [Test-Suites and Test-Cases](https://drive.google.com/drive/folders/1twbNK90LzWPECgIFH_aCt08PZY_ww_30)
+- [Bug-Reports](https://drive.google.com/drive/folders/1VudDbQxs3WL-hxqmjoyNC5fNYWqqRbuH)
 - [SQL Queries]
 - [Postman Collections]
 
