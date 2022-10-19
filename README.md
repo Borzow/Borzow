@@ -1,4 +1,5 @@
-[<img alt="Header" src="https://github.com/Borzow/Borzow/blob/master/assets/QA.png"/>]
+<img alt="Header" height="100%" src="https://github.com/Borzow/Borzow/blob/master/assets/QA.png" width="100%"/>
+
 ## I'm a QA Engineer.
 ### I like testing, I love checklists and test cases, I love looking for bugs and automating everything, I love testing
 ## My CV
