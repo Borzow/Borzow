@@ -33,7 +33,7 @@
 - [Test-Suites and Test-Cases](https://drive.google.com/drive/folders/1twbNK90LzWPECgIFH_aCt08PZY_ww_30)
 - [Bug-Reports](https://drive.google.com/drive/folders/1VudDbQxs3WL-hxqmjoyNC5fNYWqqRbuH)
 - [SQL Queries]
-- [Postman Collections]
+- [Postman Collections](https://github.com/Borzow/Postman_Api)
 
 ### Follow Me
 
