@@ -37,7 +37,7 @@
 
 ### Follow Me
 
-[![Header](https://img.shields.io/badge/Telegram-090909?style=social&logo=telegram&logoColor=31a5db)](https://t.me/GreatQa)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=social&logo=telegram&logoColor=31a5db)](https://t.me/MaxBqa)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=social&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Borzow&show_icons=true&theme=radical)
