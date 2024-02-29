@@ -29,7 +29,7 @@
 ![Header](https://img.shields.io/badge/espresso-090909?style=for-the-badge&amp;logo=espresso&amp;logoColor=230db7ed)
 ### Testing Documentation
 
-- [Autotests](https://github.com/Borzow/Autotests.git)
+- [Android native autotests](https://github.com/Borzow/kaspressoUiTests)
 - [Test-Suites and Test-Cases](https://drive.google.com/drive/folders/1twbNK90LzWPECgIFH_aCt08PZY_ww_30)
 - [Bug-Reports](https://drive.google.com/drive/folders/1VudDbQxs3WL-hxqmjoyNC5fNYWqqRbuH)
 - [SQL Queries]
